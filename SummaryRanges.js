@@ -3,6 +3,6 @@
  * @return {string[]}
  */
  var summaryRanges = function(nums) {
-    
+    let start = null
   };
   
