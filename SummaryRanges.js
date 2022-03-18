@@ -6,7 +6,9 @@
     let start = null
     const result = []
     for (let i = 0; i < nums.length; i++) {
-        
+        if (start === null) {
+            
+          }
       }
   };
   
