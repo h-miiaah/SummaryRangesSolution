@@ -10,7 +10,7 @@
             start = nums[i]
           }
           if (nums[i] === nums[i + 1] - 1) {
-            
+            continue
           }
       }
   };
