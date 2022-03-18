@@ -27,6 +27,7 @@
    * Initialize a start variable to null.
    * Loop through the nums array.
    * If start is null, we set start to the current value of nums[i].
+   * If nums[i] is equal to nums[i + 1] - 1, we continue to the next iteration.
    * 
    */
   
