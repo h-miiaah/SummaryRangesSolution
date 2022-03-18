@@ -12,6 +12,9 @@
           if (nums[i] === nums[i + 1] - 1) {
             continue
           }
+          if (nums[i] === start) {
+            
+          }
       }
   };
   
