@@ -17,7 +17,7 @@
             start = null
           } else {
             result.push(`${start}->${nums[i]}`)
-            
+            start = null
           }
       }
   };
