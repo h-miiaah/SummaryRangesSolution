@@ -14,7 +14,7 @@
           }
           if (nums[i] === start) {
             result.push(nums[i].toString())
-            
+            start = null
           }
       }
   };
