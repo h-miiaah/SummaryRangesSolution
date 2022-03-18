@@ -13,6 +13,7 @@
             continue
           }
           if (nums[i] === start) {
+            result.push(nums[i].toString())
             
           }
       }
