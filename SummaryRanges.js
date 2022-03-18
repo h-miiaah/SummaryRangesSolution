@@ -25,6 +25,7 @@
 
   /**
    * Initialize a start variable to null.
+   * Loop through the nums array.
    * 
    */
   
