@@ -26,6 +26,7 @@
   /**
    * Initialize a start variable to null.
    * Loop through the nums array.
+   * If start is null, we set start to the current value of nums[i].
    * 
    */
   
