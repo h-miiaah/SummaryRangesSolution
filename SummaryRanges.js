@@ -24,6 +24,7 @@
   };
 
   /**
+   * Initialize a start variable to null.
    * 
    */
   
