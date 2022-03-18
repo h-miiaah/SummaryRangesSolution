@@ -16,6 +16,7 @@
             result.push(nums[i].toString())
             start = null
           } else {
+            result.push(`${start}->${nums[i]}`)
             
           }
       }
