@@ -7,7 +7,7 @@
     const result = []
     for (let i = 0; i < nums.length; i++) {
         if (start === null) {
-            
+            start = nums[i]
           }
       }
   };
