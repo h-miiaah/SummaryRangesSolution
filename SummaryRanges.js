@@ -9,6 +9,9 @@
         if (start === null) {
             start = nums[i]
           }
+          if (nums[i] === nums[i + 1] - 1) {
+            
+          }
       }
   };
   
